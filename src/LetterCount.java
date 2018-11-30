@@ -1,11 +1,8 @@
 
 import java.io.*;
 import java.util.Comparator;
-import java.util.Formatter;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.stream.Stream;
-
 
 public class LetterCount {
     public static void main(String[] args) {
